@@ -1,4 +1,4 @@
 # MultiThreadLearning
 Multi thread Learning step by step 
 
-# 1 Created Mythread using extend the thread 
+# 1 Created Mythread using extend the main  thread 
